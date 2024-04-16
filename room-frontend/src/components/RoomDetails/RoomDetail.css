@@ -1,0 +1,10 @@
+.cardContainer{
+    text-align: left;
+    color :rgb(7, 12, 10);
+    background-color: #EBDEF0;
+    padding: 20px;
+}
+.card{
+    margin: 0.5em;
+
+}
